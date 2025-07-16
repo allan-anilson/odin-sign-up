@@ -156,6 +156,6 @@ input:focus{
     outline:none;
 }
 
-#password,#confirm-password:invalid{
+#password:invalid,#confirm-password:invalid{
     border-color: red;
 }
